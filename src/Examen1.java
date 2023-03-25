@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Examen1 {
-
+    //Examen
     public static Map estudiantesLista(){
         Map alumnos_lista = new HashMap();
         alumnos_lista.put("Juan", 0);
